@@ -1,0 +1,4 @@
+{
+  "apiURL": "http://localhost:5000",
+  "jwtPrivateKey": "myprivatekey"
+}
